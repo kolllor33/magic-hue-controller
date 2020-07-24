@@ -6,6 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": ["lamp", "bulb", "magic hue", "magic home"],
+  "homepage": "https://github.com/kolllor33/magic-hue-controller#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kolllor33/magic-hue-controller.git"
+  },
   "author": "kolllor33",
   "license": "MIT"
 }
